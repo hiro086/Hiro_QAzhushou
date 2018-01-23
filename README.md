@@ -88,4 +88,4 @@ app_secret=4a0REeAIaCVuqct59Qd9hTe2eAGGF1ie
 
 ### 资助
 
-![fig3](/figure/fig3.png)
+![fig3](/figure/fig3.png = 100 x 100)
