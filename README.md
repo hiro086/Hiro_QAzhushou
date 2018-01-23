@@ -60,7 +60,7 @@ app_secret=4a0REeAIaCVuqct59Qd9hTe2eAGGF1ie
 
 ## 效果演示
 
-![pig1](/Users/NUAA_Hiro/Desktop/pig1.jpg)
+![pig1](/figure/pig1.jpg)
 
 共三个部分
 
@@ -76,7 +76,7 @@ app_secret=4a0REeAIaCVuqct59Qd9hTe2eAGGF1ie
 
 题库输出演示
 
-![pig2](/Users/NUAA_Hiro/Desktop/pig2.jpg)
+![pig2](/figure/pig2.jpg)
 
 #### 注意：彩色字体输出使用的termcolor库，目前测试只在Pycharm中能显示颜色字体
 
@@ -88,4 +88,4 @@ app_secret=4a0REeAIaCVuqct59Qd9hTe2eAGGF1ie
 
 ### 资助
 
-![fig3](/Users/NUAA_Hiro/Downloads/fig3.png)
+![fig3](/figure/fig3.png)
