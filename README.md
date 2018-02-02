@@ -1,7 +1,19 @@
-## 知识问答助手
+## Hiro直播答题助手
+
+## 支持自动检测出题
 
 #### 支持（百万英雄、冲顶大会、芝士超人、一直播等平台）
-#### WIN + 安卓模拟器
+#### WIN + 安卓模拟器 + 按键精灵
+
+## [MAC版本链接](https://github.com/hiro086/Hiro_QAzhushou_for_MAC)
+
+## 实现
+
+1. 利用按键精灵脚本检测题区坐标颜色，判断三个颜色为同一值时即出题
+2. 获取模拟器图像
+3. 截图题区
+4. 百度ORC识图（返回问题与选项）
+5. 按F2搜索
 
 ## 编译提示：
 
@@ -52,12 +64,7 @@ app_key=qM7V4pcKihGVMfUoaeaS1ykx
 app_secret=4a0REeAIaCVuqct59Qd9hTe2eAGGF1ie
 ```
 
-## 实现
-
-1. 获取模拟器图像
-2. 截图题区
-3. 百度ORC识图（返回问题与选项）
-4. 按F2搜索
+1. ​
 
 ## 效果演示
 
@@ -80,12 +87,6 @@ app_secret=4a0REeAIaCVuqct59Qd9hTe2eAGGF1ie
 ![pig2](/figure/pig2.jpg)
 
 #### 注意：彩色字体输出使用的termcolor库，目前测试只在Pycharm中能显示颜色字体
-
-### 自动搜题脚本
-
-- 500 Star 分享自动识别出题脚本，免人工操作
-- 资助20元分享自动识别出题脚本
-- 资助50代搭建全部环境
 
 ### 资助
 - [支付宝](/figure/fig3.png)
